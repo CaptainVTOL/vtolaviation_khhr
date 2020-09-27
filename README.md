@@ -20,5 +20,5 @@ Current version: v1.0 Image previews here: https://imgur.com/a/XTZ3wJz
 INSTALLATION INSTRUCTIONS
 
 1. Download the zip file.
-2. Inside the zip file are 2 folders, one titled "vtolaviation-khhr" and the other "vtolaviation-khhrassets". Drag both of these folders into your MSFS\Community directory.
+2. Inside the zip file is a zip file titled "vtolaviation-khhr". Inside that zip are 2 folders, one titled "vtolaviation-khhr" and the other "vtolaviation-khhrassets". Drag both of these folders into your MSFS\Community directory.
 3. That's it! Fire up MSFS, then go to World Map and search for KHHR
