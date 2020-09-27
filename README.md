@@ -15,10 +15,14 @@ ask is to receive credit for the airport. Please do NOT upload elsewhere without
 we are handling releases in a very particular way to ensure that it's easiest for us to manage hotfixes. Custom assets developed for this airport may be used 
 in other airports. However, credit to VTOL Aviation is required to be given. 
 
-Current version: v1.0 Image previews here: https://imgur.com/a/XTZ3wJz
+Current version: v1.01 Image previews here: https://imgur.com/a/XTZ3wJz
+
+UPDATING FROM V1.0?
+
+Delete all folders related to KHHR in your Community folder prior to installing this update. This means deleting both the old "vtolaviation-khhr" folder and the "vtolaviation-khhrassets" folder. The way the package is built has changed so that everything is in the one folder now.
 
 INSTALLATION INSTRUCTIONS
 
 1. Download the zip file.
-2. Inside the zip file is a zip file titled "vtolaviation-khhr". Inside that zip are 2 folders, one titled "vtolaviation-khhr" and the other "vtolaviation-khhrassets". Drag both of these folders into your MSFS\Community directory.
+2. Inside the zip file is a zip file titled "vtolaviation-khhr". Inside this zip file is 1 folder titled "vtolaviation-khhr". Drag this folder into your MSFS\Community directory.
 3. That's it! Fire up MSFS, then go to World Map and search for KHHR
